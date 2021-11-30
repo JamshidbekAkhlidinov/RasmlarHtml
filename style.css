@@ -7,3 +7,21 @@
     width: auto;
     margin: 0ch auto;
 }
+
+.header-list {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.header-items {
+    padding: 10px;
+}
+
+.header-img {
+    box-shadow: -2px -2px 10px red;
+    border-radius: 20px;
+    width: 300px;
+    height: 300px;
+}
